@@ -7,8 +7,6 @@
 #### What gif best describes this PR or how it makes you feel?
 #### Definition of Done:
 - [ ] Is there appropriate test coverage?
-- [ ] Does this PR require a Selenium test? (e.g. Browser-specific bugs or complicated UI bugs)
-- [ ] Does this PR require a regression test? All fixes require a regression test.
 - [ ] Does this PR require a blog post? If so, ensure marketing has signed off on content.
 - [ ] Does the [knowledge base](https://help.transistor.fm) need to be updated?
 - [ ] Does this add new dependencies?
