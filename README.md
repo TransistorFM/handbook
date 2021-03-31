@@ -9,6 +9,7 @@ Transistor is a new company, but we wanted to start clarifying **who we are**, *
 - Feb 2018: Jon and Justin sign partnership docs
 - March 2018: invited first paying (beta) customers
 - Aug 2018: official launch (100 customers)
-- April 2019: Juarin goes full-time ($10k MRR)
+- March 2019: [So close to $10k MRR!](https://twitter.com/mijustin/status/1111417288664584195)
+- April 2019: Justin goes full-time ($10k MRR)
 - June 2019: 1,000 active customers
 - July 2019: Jon goes full-time ($19k MRR)
