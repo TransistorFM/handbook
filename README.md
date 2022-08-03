@@ -6,6 +6,7 @@ Transistor is a new company, but we wanted to start clarifying **who we are**, *
 
 - March 2017: first-line of code
 - July 2017: Transistor Inc is incorporated
+- Jan 2018: Jon and Justin commit to partner up, create a Slack group
 - Feb 2018: Jon and Justin sign partnership docs
 - March 2018: invited first paying (beta) customers
 - Aug 2018: official launch (100 customers)
