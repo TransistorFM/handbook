@@ -8,8 +8,7 @@
 #### Definition of Done:
 - [ ] Is there appropriate test coverage?
 - [ ] Does this PR require a blog post? If so, ensure marketing has signed off on content.
-- [ ] Does the [knowledge base](https://help.transistor.fm) need to be updated?
+- [ ] Does the [knowledge base](https://support.transistor.fm) need to be updated?
 - [ ] Does this add new dependencies?
 - [ ] Will this feature require a new piece of infrastructure be implemented?
-- [ ] Does this PR require new Mixpanel or GA events?
 - [ ] Is there appropriate logging included?
