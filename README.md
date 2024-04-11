@@ -16,6 +16,6 @@ Transistor is a new company, but we wanted to start clarifying **who we are**, *
 - April 2019: Justin goes full-time ($10k MRR)
 - June 2019: 1,000 active customers
 - July 2019: Jon goes full-time ($19k MRR)
-- April 2021: We hired [Helen Ryles](https://transistor.fm/helen/) full-time
-- August 2021: We hired [Jason Pearl](https://transistor.fm/jason/) full-time
-- April 2023: We hired [Josh Anderton](https://transistor.fm/josh/)
+- April 20, 2021: We hired [Helen Ryles](https://transistor.fm/helen/) full-time
+- August 2, 2021: We hired [Jason Pearl](https://transistor.fm/jason/) full-time
+- April 11, 2023: We hired [Josh Anderton](https://transistor.fm/josh/)
