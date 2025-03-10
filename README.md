@@ -19,3 +19,4 @@ Transistor is a new company, but we wanted to start clarifying **who we are**, *
 - April 20, 2021: We hired [Helen Ryles](https://transistor.fm/helen/) full-time
 - August 2, 2021: We hired [Jason Pearl](https://transistor.fm/jason/) full-time
 - April 11, 2023: We hired [Josh Anderton](https://transistor.fm/josh/)
+- July 18, 2024: We hired [Michael Green](https://transistor.fm/michael/)
