@@ -14,6 +14,7 @@ When you're sailing a ship, you set your rudder, which determines your direction
 - Feb 2018: Jon and Justin sign partnership docs
 - March 2018: invited first paying (beta) customers
 - Aug 2018: official launch (100 customers)
+- December 2019: We hired Helen Ryles part-time to help us with Customer Success
 - March 2019: [So close to $10k MRR!](https://twitter.com/mijustin/status/1111417288664584195)
 - April 2019: Justin goes full-time ($10k MRR)
 - June 2019: 1,000 active customers
