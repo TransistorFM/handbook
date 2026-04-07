@@ -21,5 +21,7 @@ When you're sailing a ship, you set your rudder, which determines your direction
 - July 2019: Jon goes full-time ($19k MRR)
 - April 20, 2021: We hired [Helen Ryles](https://transistor.fm/helen/) to help us full-time with Customer Success
 - August 2, 2021: We hired [Jason Pearl](https://transistor.fm/jason/) to help us full-time with Engineering
+- October 13, 2022: We gired Josh Anderton to help us part-time with Marketing
 - April 11, 2023: We hired [Josh Anderton](https://transistor.fm/josh/) to help us full-time with Marketing
+- Julu 13, 2023: We hired Michael Green part-time to help us with Customer Success
 - July 18, 2024: We hired [Michael Green](https://transistor.fm/michael/) to help us full-time with Customer Success
